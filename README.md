@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samboja651
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on CSS and Javascript
+- 👀 I’m interested in Data Analysis using Python
+- 🌱 I’m currently advancing my skills in Python programming
+- 💞️ I’m looking to work on projects, no pay , just for experience
 - 📫 Reach me on these email in130003621kisiiuniversisty@gmail.com
 
 <!---
