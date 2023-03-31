@@ -1,7 +1,5 @@
-# Kibo FPWP Final Project
-# Put your final project code in this file for submission
-# Add the names of the authors, a brief description, and link to your video in the file called 'readme.md'
-# Then, you can remove these instruction comments
+# Hotel service, eat and pay
+
 import sys
 print("Welcome to Nokras Hotel")
 menu = ["1.Pilau-ksh.120","2.Chips-ksh.100","3.Fish-ksh.150","4.Ugali-ksh.50","5.Coke_Soda-ksh.60"]
@@ -65,6 +63,7 @@ while True:
       print("Bill Cleared!,Thank You, Precious customer")
       print("Welcome again")
       sys.exit()
+      
     elif amount < total:
       balance = total - amount
       print("Your balance is",balance)

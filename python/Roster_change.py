@@ -1,5 +1,4 @@
-# See the Instructions tab.
-# Scroll down to see where you should write your solution
+
 roster = [
   "Thibaut Courtois",
   "Dani Carvajal",
@@ -32,12 +31,8 @@ roster = [
   "Mariano"
 ]
 
-# Write your solution below
-
 print("\nThe current Real Madrid roster:\n")
-# Print the current roster using a for loop
-# for (i,rosters) in enumerate(roster):
-#   print(f"{i+1}.{rosters}")
+
 for i in roster:
   print(i)
 

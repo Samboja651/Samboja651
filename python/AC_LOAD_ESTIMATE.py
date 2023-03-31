@@ -1,4 +1,4 @@
-# Write your AC Load Estimator solution here
+# AC Load Estimator 
 print("Enter room dimensions.")
 width=float(input("width: "))
 height=float(input("height: "))

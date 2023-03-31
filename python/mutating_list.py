@@ -1,5 +1,4 @@
-# Practice mutating lists
-# The starter code will print the full list after each change
+# mutating list
 
 # Create a list called my_list
 my_list = [10, 20, 30, 40, 50]
@@ -21,7 +20,4 @@ print(my_list)
 my_list.append(False)
 print(my_list)
 print("The number of items in the list is ",len(my_list))
-# print the statement:
-# "The number of items in the list is [X]"
-# With the number of list items for [X] (so, 2 if the list has 2 items)
-# You can use len(my_list) to get the number of elements in my_list
+# print the statement

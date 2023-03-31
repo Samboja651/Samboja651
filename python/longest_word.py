@@ -2,15 +2,15 @@
 # Write your code below
 # count = 0
 word = []
-letter = 0
+
 print("Enter five words")
 for i in range(5):
   word_enter = input("Enter a word: ")
   word.append(word_enter)
-  letter = len(word[0])
-  print(letter)
+  word_length = len(word[0])
+  if word_length < i:
+    word_length = i
+    
 
-  # longest = len(word)
-  # for word_long in word:
-# print(letter)
-print(word)
+print(word_length)
+# i don't understand how to print the longest word it just keeps printing the length of longest word
