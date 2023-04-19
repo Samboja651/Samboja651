@@ -1,0 +1,74 @@
+/* load the fonts from google fonts */
+/* (See fonts.google.com to pick other fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Nunito+Sans&display=swap');
+
+/* Colors */
+body {
+  /*  page background color  */
+  background-color: #f0f0f0;
+  /*  text color */
+  color: #22aa94;
+}
+
+/* Colors for links */
+a, a:visited {
+  color: rgb(128, 128, 0);
+  /* remove underline */
+  text-decoration: none;
+  /* add space around */
+  padding: 4px;
+}
+a:hover {
+  /* different color and background when hovered */
+  color: #95b;
+  background-color: #ffc;
+}
+
+/* Color for text when selected */
+::selection {
+  background: #d6e2ff;
+}
+::-moz-selection {
+  background: #ffd6f8;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  /* heading font */
+  font-family: 'Libre Baskerville', serif;
+}
+
+body {
+  /*  body font, size, and line height */
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+/* heading font sizes */
+h1 { font-size: 45px;color:teal}
+h2 { font-size: 36px;color:crimson}
+h3 { font-size: 30px;color:crimson}
+h4 { font-size: 28px;}
+h5 { font-size: 24px;}
+h6 { font-size: 22px;}
+
+/* Spacing */
+body {
+  /* how wide should the content be? */
+  max-width: 600px;
+  /* margin: auto to put the content in the center */
+  margin: auto;
+  /* no extra space at the top, some at the bottom */
+  margin-top: 0;
+  margin-bottom: 40px;
+  /* breathing room for the content on the sides */
+  padding: 0 1em;
+}
+.app{
+  background-color:  rgb(182, 235, 236);
+}
+.more{
+  background-color: #fda5d4;
+  color:black;
+}
