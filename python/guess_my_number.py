@@ -9,6 +9,7 @@ while True:
   
     if guess < secret:
         print("Too low")
+        
     elif guess == secret:
         print("Congrats! The number was ", secret)
         break
