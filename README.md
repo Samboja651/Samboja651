@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Granton Waribe or @Samboja651 on Github
-- 👀 I’m interested in Data Analysis using Python
-- 🌱 I’m currently advancing my skills in Python programming
+- 👀 I’m doing a degree in Computer Science at Kibo School
+- 🌱 I’m Learning web development
 - 💞️ I’m looking to contribute on projects, no pay , just for experience and learning.
 - 📫 Reach me on these email waribekihiko651@gmail.com
 
