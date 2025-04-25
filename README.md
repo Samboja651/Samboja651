@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Granton Waribe or @Samboja651 on Github
-- 👀 I’m doing a degree in Computer Science at Kisii University KE
-- 🌱 I’m Learning a four week AI course at IBM
-- 💞️ I’m looking to contribute on projects, to get exposure and grow in my career.
+- 👋 Hi, I’m Granton Waribe, a computer scientist, problem solver and critical thinker.
+- 👀 I build tech solutions having the community in mind.
+- 🌱 Currently Learning a four week AI course at IBM
+- 💞️ I'm looking forward to working in a growth oriented organization.
 - 📫 Reach me via waribekihiko651@gmail.com
 
 <!---
