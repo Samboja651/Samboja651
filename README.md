@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Granton Waribe, a computer scientist, problem solver and critical thinker.
 - 👀 I build tech solutions having the community in mind.
 - 🌱 Currently Learning a four week AI course at IBM
-- 💞️ I'm looking forward to working in a growth oriented organization.
+- 💞️ I'm looking forward to working in a growth oriented organization: one that prioritizes character over hiring best of the best skills.
 - 📫 Reach me via waribekihiko651@gmail.com
 
 <!---
