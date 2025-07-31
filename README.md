@@ -9,4 +9,4 @@ Samboja651/Samboja651 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ## subheader
-I'm a curious person who likes to create solutions and explores different ways of solving a problem.
+I'm a curious person who likes to build staff and explores different ways of solving a problem.
